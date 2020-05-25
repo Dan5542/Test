@@ -30,7 +30,7 @@ ammo: {
 }
 requirements: [
   graphite/50
-  copper/300
+  copper/1
 ]
 category: turret
 research: duo
