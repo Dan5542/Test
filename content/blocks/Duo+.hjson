@@ -1,7 +1,7 @@
 type: DoubleTurret
 name: Duo+
 description: duo, but better
-health: 1000
+health: 500
 size: 2
 reload: 2
 range: 150
@@ -11,7 +11,7 @@ rotatespeed: 30
 ammo: {
   copper: {
     speed: 4
-    damage: 15
+    damage: 1
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
@@ -20,7 +20,7 @@ ammo: {
   }
   graphite: {
     speed: 6
-    damage: 25
+    damage: 1
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
